@@ -9,6 +9,6 @@
   "author": "Antoan Phu [EXIST]",
   "license": "MIT",
   "dependencies": {
-    "electron": "^8.0.2"
+    "electron": "^8.5.2"
   }
 }
